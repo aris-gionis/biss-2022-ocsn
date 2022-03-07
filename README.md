@@ -11,4 +11,4 @@ In this course we present a systematic review of polarization as manifested onli
 ### Slides
 ---
 
-[Slides](https://github.com/justbruno/signed-networks-tutorial/blob/master/main.pdf)
+[Lecture 1](https://github.com/aris-gionis/biss-2022-ocsn/lecture-01.pdf)
