@@ -1,5 +1,3 @@
-### Opinions and conflict in social networks: Models, computational problems, and algorithms
-
 ### Abstract
 ---
 Online social networks are important venues of public discourse today, hosting the opinions of hundreds of millions of individuals. Social networks are often credited for providing a technological means to break information barriers and promote diversity and democracy. In practice, however, the opposite effect is often observed: users tend to favor content that agrees with their existing world-view, get less exposure to conflicting viewpoints, and eventually create "echo chambers" and increased polarization. Arguably, without any kind of moderation, current social-networking platforms gravitate towards a state in which net-citizens are constantly reinforcing their existing opinions.
@@ -10,7 +8,7 @@ In this course we present a systematic review of polarization as manifested onli
 ---
 **Aristides Gionis** is a WASP professor in KTH Royal Institute of Technology and adjunct professor in Aalto University. He is currently a fellow in the ISI Foundation, Turin, and in 2016 he was a visiting professor in the University of Rome. His previous appointment was with Yahoo! Research, Barcelona. He obtained his PhD in 2003 from Stanford University. He is currently serving as an action editor in the Data Management and Knowledge Discovery journal (DMKD) and an associate editor in the ACM Transactions on the Web (TWEB). He has contributed in different areas of data science, such as algorithmic data analysis, web mining, social-media analysis, data clustering, and privacy-preserving data mining. 
 
-### Material
+### Slides
 ---
 
 [Slides](https://github.com/justbruno/signed-networks-tutorial/blob/master/main.pdf)
