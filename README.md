@@ -1,3 +1,5 @@
+### Opinions and conflict in social networks: Models, computational problems, and algorithms
+
 ### Abstract
 ---
 Online social networks are important venues of public discourse today, hosting the opinions of hundreds of millions of individuals. Social networks are often credited for providing a technological means to break information barriers and promote diversity and democracy. In practice, however, the opposite effect is often observed: users tend to favor content that agrees with their existing world-view, get less exposure to conflicting viewpoints, and eventually create "echo chambers" and increased polarization. Arguably, without any kind of moderation, current social-networking platforms gravitate towards a state in which net-citizens are constantly reinforcing their existing opinions.
@@ -11,4 +13,4 @@ In this course we present a systematic review of polarization as manifested onli
 ### Slides
 ---
 
-[Lecture 1](https://github.com/aris-gionis/biss-2022-ocsn/lecture-01.pdf)
+[Lecture 1](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-01.pdf)
