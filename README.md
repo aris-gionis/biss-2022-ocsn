@@ -1,4 +1,4 @@
-### Opinions and conflict in social networks: Models, computational problems, and algorithms
+### Opinions and conflict in social networks
 
 ### Abstract
 ---
