@@ -10,6 +10,7 @@ In this course we present a systematic review of polarization as manifested onli
 ---
 
 [Lecture 1: Introduction](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-01.pdf)
+
 [Lecture 2: Spectral graph analysis; submodular maximization](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-02.pdf)
 
 ### Tutor
