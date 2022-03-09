@@ -13,6 +13,9 @@ In this course we present a systematic review of polarization as manifested onli
 
 [Lecture 2: Spectral graph analysis; submodular maximization](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-02.pdf)
 
+[Lecture 3: Methods for mitigating polarization](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-03.pdf)
+
+
 ### Tutor
 ---
 **Aristides Gionis** is a WASP professor in KTH Royal Institute of Technology and adjunct professor in Aalto University. He is currently a fellow in the ISI Foundation, Turin, and in 2016 he was a visiting professor in the University of Rome. His previous appointment was with Yahoo! Research, Barcelona. He obtained his PhD in 2003 from Stanford University. He is currently serving as an action editor in the Data Management and Knowledge Discovery journal (DMKD) and an associate editor in the ACM Transactions on the Web (TWEB). He has contributed in different areas of data science, such as algorithmic data analysis, web mining, social-media analysis, data clustering, and privacy-preserving data mining. 
