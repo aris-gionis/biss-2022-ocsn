@@ -15,6 +15,7 @@ In this course we present a systematic review of polarization as manifested onli
 
 [Lecture 3: Methods for mitigating polarization](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-03.pdf)
 
+[Lecture 4: Signed networks: theory and applications](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-04.pdf)
 
 ### Tutor
 ---
