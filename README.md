@@ -6,7 +6,7 @@ Online social networks are important venues of public discourse today, hosting t
   
 In this course we present a systematic review of polarization as manifested online, and in particular in online social networks. We start by defining the concept of polarization and reviewing algorithmic methods for detecting, quantifying, and mitigating polarization. Subsequently, we provide an overview of the theory of signed networks, where edges are labeled by a sign, positive or negative. In a social network, where edges might represent interactions between users, the sign may determine whether an exchange was friendly or hostile. This simple modification to the standard graph model gives rise to interesting problem formulations and algorithmic techniques in the context of studying polarization in social networks. Finally, we will discuss models proposed in the literature to explain how individuals form opinions in social networks. We will present the most important opinion-formation models and will discuss some of the computational challenges that have arisen recently. 
 
-### Slides
+### Material
 ---
 
 [Lecture 1: Introduction](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-01.pdf)
@@ -18,6 +18,8 @@ In this course we present a systematic review of polarization as manifested onli
 [Lecture 4: Signed networks; theory and applications](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-04.pdf)
 
 [Lecture 5: Opinion dynamics in social networks](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-05.pdf)
+
+[Assignment](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/biss2022-ocsn-assignment.pdf) (Deadline: May 10, 2022)
 
 
 ### Tutor
