@@ -19,7 +19,7 @@ In this course we present a systematic review of polarization as manifested onli
 
 [Lecture 5: Opinion dynamics in social networks](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/lecture-05.pdf)
 
-[Assignment](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/biss2022-ocsn-assignment.pdf) (Deadline: May 10, 2022)
+[Assignment -- Deadline: May 10, 2022](https://github.com/aris-gionis/biss-2022-ocsn/blob/master/biss2022-ocsn-assignment.pdf)
 
 
 ### Tutor
